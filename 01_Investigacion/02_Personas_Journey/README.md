@@ -1,1 +1,0 @@
-Crear estructura carpeta 02_Personas_Journey
